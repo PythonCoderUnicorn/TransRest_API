@@ -51,5 +51,25 @@ This section can have:
 Star Trek Jadzia Dax (she/her) is a Trill species, which embodies other genders
 ```
 
+### Adding Exoplanets 🏳️‍⚧️
+
+A section of this data are names of [NASA Exoplanets](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars) in
+the attempts to add to positive Sci-Fi thinking and affirmations. 
+This is one part truth (exoplanet) and one part fiction or affirmation that 
+is overall positive.
+
+- `Exoplanet name` + `fiction`
+- `Exoplanet name` + `affirmation`
+
+Fiction
+```
+Planet CD Cet b (CD Cet) is known for their Transgender services
+```
+
+Affirmation
+```
+You must come from the EPIC planets, EPIC 206024342 b, c and d
+```
+
 
 
