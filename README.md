@@ -25,6 +25,12 @@ Adding to the json file includes
 
 ### Adding Persons 🏳️‍⚧️
 
+This data has famous Transgender people, the affirmations have everyone as living and
+uses the question of _"if you could have lunch with any famouse person, 
+who would you have lunch with?"_ as basis for affirmations involving the end user. 
+The end user needs to be part of the narrative with famous person in some relation 
+to their profession. 
+
 - any Transgender person who is publically known, has stated pronouns, their profession/ what they do and some fiction about how they will interact with the end user. 
 - `profession` + `pronouns` + `fiction`
 
