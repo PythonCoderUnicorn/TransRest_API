@@ -2,6 +2,8 @@
 
 A repo for Transgender Affirmations. 
 
+> Note: This API is running on a **FREE plan** which is 500 hours per month of active run time. If and when the run time is >500 hours it shuts down and needs to be restarted the following month. So if this API is not working, then this is why. 
+
 ## Genesis 🏳️‍⚧️
 
 The idea is a combination of a conversation about Transgender people needing to take a break and rest. 
